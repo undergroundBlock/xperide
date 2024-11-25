@@ -1,5 +1,5 @@
 {
-  "name": "bnb-telegram-demo",
+  "name": "xperide",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -36,5 +36,5 @@
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
   },
-  "homepage": "https://kang5647.github.io/bnb-telegram-demo"
+  "homepage": "https://undergroundblock.github.io/xperide"
 }

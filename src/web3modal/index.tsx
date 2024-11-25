@@ -16,8 +16,8 @@ const chains = [bscTestnet] as const;
 const metadata = {
   name: 'BNB Telegram App Demo',
   description: 'A simple counter Telegram mini app',
-  url: 'https://kang5647.github.io/bnb-telegram-demo/', // origin must match your domain & subdomain
-  icons: ['https://kang5647.github.io/bnb-telegram-demo/bnb_icon.png'],
+  url: 'https://undergroundblock.github.io/xperide/', // origin must match your domain & subdomain
+  icons: ['https://undergroundblock.github.io/xperide/bnb_icon.png'],
 };
 
 const config = defaultWagmiConfig({
